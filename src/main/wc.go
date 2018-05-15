@@ -2,11 +2,11 @@ package main
 
 import (
 	"fmt"
-	"mapreduce"
 	"os"
-	"unicode"
-	"strings"
 	"strconv"
+	"strings"
+	"unicode"
+	"github.com/ghjan/distributed-computing/src/mapreduce"
 )
 
 // The mapping function is called once for each piece of the input.
